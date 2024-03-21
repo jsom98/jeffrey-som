@@ -20,9 +20,9 @@
 
   - [Qualys Vulnerability Management Detection and Response](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf) 
 
-  - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
+  -  
 
-  - [ACE](https://www.credly.com/earner/earned/badge/8f23544f-0d78-4345-9b1e-74c22f241256) 
+  -  
 
      
 <h2>📜 Achivements:</h2>
