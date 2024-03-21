@@ -1,4 +1,4 @@
-<h1>Hi, I'm Your name here! <a href="https://www.linkedin.com/in/jeffrey-som-a2bb171b6/"> </a> 
+<h1>Hi, Jeffrey Som! <a href="https://www.linkedin.com/in/jeffrey-som-a2bb171b6/"> </a> 
 
  
 
@@ -18,7 +18,7 @@
 
  
 
-  - [Net+](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
+  - [Qualys Vulnerability Management Detection and Response](https://www.credly.com/earner/earned/badge/83328a43-2b41-4be4-82c5-414f6228617c) 
 
   - [Security+](https://www.credly.com/earner/earned/badge/fc1776cc-e449-4175-812e-9c8783c16e07) 
 
@@ -46,7 +46,7 @@
 
 [instagram]: https://www.instagram.com/ 
 
-[linkedin]: https://linkedin.com/in/ 
+[linkedin]: https://www.linkedin.com/in/jeffrey-som-a2bb171b6/ 
 
 <!--
 **jeffrey-som/jeffrey-som** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
