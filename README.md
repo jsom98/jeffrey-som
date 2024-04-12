@@ -7,7 +7,7 @@
 <h2>📜 Certifications:</h2> 
  
   - [Qualys Vulnerability Management Detection and Response](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
-  - [Cyber Security Asset Management] (https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf](https://github.com/jeffrey-som/jeffrey-som/blob/main/Cyber%20Security%20Asset%20Management.pdf)
+  - [Qualys Cyber Security Asset Management](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf](https://github.com/jeffrey-som/jeffrey-som/blob/main/Cyber%20Security%20Asset%20Management.pdf)
      
 <h2>📜 Achivements:</h2>
 
