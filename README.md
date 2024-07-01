@@ -21,7 +21,7 @@
 
 [<img align="left" alt="yourname | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 
-[<img align="left" alt="yourname | X" width="22px" src="https://i.pinimg.com/originals/2f/b9/09/2fb909b74a854f0715e64dda5825990d.jpg" />][X] 
+[<img align="left" alt="yourname | X" width="22px" src="https://i.pinimg.com/originals/2f/b9/09/2fb909b74a854f0715e64dda5825990d.svg" />][X] 
 
 [<img align="left" alt="yourname | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
 
