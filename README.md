@@ -12,9 +12,8 @@
 <h2>📜 Achivements:</h2>
 
   - [FIS Award for Best of 2023 IT Expo](https://www.linkedin.com/posts/jeffreysom_itexpo2023-innovation-awardwinner-activity-7051638485878788096-exKp?utm_source=share&utm_medium=member_desktop)
-  - - [Qualys Vulnerability Management Detection and Response](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
-  - 
-
+  - [Ameritas Award for Senior Design Project| Education & Healthcare](https://www.linkedin.com/posts/jeffreysom_itexpo2023-innovation-awardwinner-activity-7051638485878788096-exKp?utm_source=share&utm_medium=member_desktop)
+  - University of Cincinnati Dean’s List
 
 <h2> 🤳 Connect with me:</h2> 
 
