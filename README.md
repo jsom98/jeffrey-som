@@ -7,10 +7,13 @@
 <h2>📜 Certifications:</h2> 
  
   - [Qualys Vulnerability Management Detection and Response](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
-  - [Qualys Cyber Security Asset Management]([https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf](https://github.com/jeffrey-som/jeffrey-som/blob/main/Cyber%20Security%20Asset%20Management.pdf)
+  - [Qualys Cyber Security Asset Management](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
      
 <h2>📜 Achivements:</h2>
 
+  - [FIS Award for Best of 2023 IT Expo](https://www.linkedin.com/posts/jeffreysom_itexpo2023-innovation-awardwinner-activity-7051638485878788096-exKputm_source=share&utm_medium=member_desktop)
+  - - [Qualys Vulnerability Management Detection and Response](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
+  - 
 
 
 <h2> 🤳 Connect with me:</h2> 
