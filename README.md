@@ -5,10 +5,6 @@
 <h2>🛡️ Information Security Projects</h2>   
 
 <h2>📜 Certifications:</h2> 
-  - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
-  - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
-
-<h2>Vulnerability and Patch Management:<h2>
  
   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
