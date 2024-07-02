@@ -8,6 +8,7 @@
  
   - [Qualys Vulnerability Management Detection & Response(VMDR)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
   - [Qualys CyberSecurity Asset Management (CSAM)](https://github.com/jeffrey-som/jeffrey-som/blob/main/VMDR%20Certification.pdf)
+  - [](https://github.com/jsom98/Certifications/blob/main/Cloud%20Agent.pdf)
      
 <h2>📜 Achivements:</h2>
 
