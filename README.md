@@ -3,6 +3,12 @@
 <h2>🛡️ Information Security Projects</h2>
 
 - [Azure Honeynet](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md)
+- [KQL Alerts for Microsoft Sentinel]()
+- [Incident Response in Microsoft Sentinel]()
+- [24 Hour Azure Environment Cleanup]()
+- [Threat Intelligence Workbooks]()
+- [OpenVas with Azure]()
+- [Users and Permissions Report]()
 
 <h2>📜 Certifications/Certificates:</h2>
 
