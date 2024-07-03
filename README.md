@@ -1,6 +1,7 @@
 <h1>Hi, Jeffrey Som! <a href="https://www.linkedin.com/in/jeffrey-som-a2bb171b6/"> </a> 
  
 <h2>🛡️ Information Security Projects</h2>
+- [Azure Honeynet](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md)
 
 <h2>📜 Certifications/Certificates:</h2>
 
