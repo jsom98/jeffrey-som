@@ -3,9 +3,9 @@
 <h2>🛡️ Information Security Projects</h2>
 
 - [Azure Honeynet](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Honeynet.md)
-- [KQL Alerts for Microsoft Sentinel]()
-- [Incident Response in Microsoft Sentinel]()
-- [24 Hour Azure Environment Cleanup]()
+- [KQL Alerts for Microsoft Sentinel](https://github.com/jsom98/Azure-Projects/blob/main/KQL%20Alerts%20for%20Microsoft%20Sentinel.md)
+- [Incident Response in Microsoft Sentinel](https://github.com/jsom98/Azure-Projects/blob/main/Incident%20Response%20in%20Microsoft%20Sentinel.md)
+- [24 Hour Azure Environment Cleanup](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md)
 - [Threat Intelligence Workbooks]()
 - [OpenVas with Azure]()
 - [Users and Permissions Report]()
