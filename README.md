@@ -8,7 +8,8 @@
 - [24 Hour Azure Environment Cleanup](https://github.com/jsom98/Azure-Projects/blob/main/Azure%20Environment%20BEFORE%20Securing%20AND%20then%20AFTER.md)
 - [Threat Intelligence Workbooks]()
 - [OpenVas with Azure](https://github.com/jsom98/Azure-Projects/blob/main/OpenVAS.md)
-- [Users and Permissions Report]()
+- [Users and Permissions Report](https://github.com/jsom98/Azure-Projects/blob/main/Users%20and%20Permissions%20Report.md)
+- [Qualys](https://github.com/jsom98/Azure-Projects/blob/main/Qualys.md)
 
 <h2>📜 Certifications/Certificates:</h2>
 
